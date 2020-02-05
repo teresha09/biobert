@@ -1,0 +1,10 @@
+T0	adr 0 16	extreme lethargy
+T1	adr 18 40	hungry more than usual
+T2	adr 42 53	weight gain
+T3	adr 55 70	zero motivation
+T4	adr 72 86	memory issues 
+T5	adr 87 124	short term memory negatively affected
+T6	adr 127 135	hopeless
+T7	adr 137 161	social anxiety magnified
+T8	adr 213 220	fatigue
+T9	symptom 137 151	social anxiety

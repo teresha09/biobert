@@ -1,0 +1,13 @@
+T0	adr 567 573	tired 
+T1	adr 7 15	tinnitus
+T2	adr 17 30	restless legs
+T3	adr 473 502	exacerbation of restless legs
+T4	adr 563 572	get tired
+T5	adr 577 583	spacey
+T6	disease 62 72	depression
+T7	disease 82 86	pain
+T8	disease 92 113	interstitial cystitis
+T9	disease 118 128	vulvodynia
+T10	symptom 62 72	depression
+T11	symptom 82 86	pain
+T12	symptom 92 113	interstitial cystitis

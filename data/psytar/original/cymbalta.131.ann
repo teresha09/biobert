@@ -1,0 +1,20 @@
+T0	adr 119 141	not being able to move
+T1	adr 160 174	blurred vision
+T2	adr 176 182	nausea
+T3	adr 184 204	excessive sleepiness
+T4	adr 210 228	inability to sleep
+T5	adr 656 684	libido started taking strain
+T6	adr 702 718	trouble sleeping
+T7	adr 184 204	excessive sleepiness
+T8	adr 775 818	need a nap at least once every afternoon
+T9	adr 194 1123	sleepiness became unbearable
+T10	adr 775 1154	needing a nap every afternoon
+T11	adr 656 1220	libido did a disapperance act
+T12	disease 988 1009	felt in control again
+T13	disease 1014 1060	stupid chores didn't seem like such a big deal
+T14	disease 972 979	anxiety
+T15	disease 1291 1339	didn't feel like my mood was lifted sufficiently
+T16	disease 1440 1445	manic
+T17	symptom 988 1009	felt in control again
+T18	symptom 1014 1060	stupid chores didn't seem like such a big deal
+T19	symptom 1291 1339	didn't feel like my mood was lifted sufficiently

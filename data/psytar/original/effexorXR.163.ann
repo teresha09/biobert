@@ -1,0 +1,10 @@
+T0	adr 0 7	fatigue
+T1	adr 12 36	sleeping around 15 hours
+T2	adr 55 60	tired
+T3	adr 84 101	erection problems
+T4	adr 145 164	eye site deteriated
+T5	adr 460 474	short tempered
+T6	disease 562 569	anxiety
+T7	disease 574 584	depression
+T8	symptom 562 569	anxiety
+T9	symptom 574 584	depression

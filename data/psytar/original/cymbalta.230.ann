@@ -1,0 +1,9 @@
+T0	adr 0 11	mild nausea
+T1	adr 16 29	stomach upset
+T2	adr 31 44	mild headache
+T3	disease 69 73	pain
+T4	disease 262 269	anxiety
+T5	disease 277 287	depression
+T6	symptom 69 73	pain
+T7	symptom 262 269	anxiety
+T8	symptom 277 287	depression

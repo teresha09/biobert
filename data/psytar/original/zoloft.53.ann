@@ -1,0 +1,17 @@
+T0	adr 10 19	dry mouth
+T1	adr 21 30	dizziness
+T2	adr 32 47	chronic fatigue
+T3	adr 49 67	increased appetite
+T4	adr 69 80	stiffed jaw
+T5	adr 82 98	decreased libido
+T6	adr 100 111	weight gain
+T7	adr 113 122	brain fog
+T8	adr 113 122	brain fog
+T9	adr 32 47	chronic fatigue
+T10	adr 535 546	drained out
+T11	adr 547 560	feeling dizzy
+T12	adr 577 616	hard for me to get ready and go to work
+T13	adr 625 640	gained like 7lb
+T14	disease 148 155	anxiety
+T15	symptom 148 155	anxiety
+T16	symptom 148 155	anxiety

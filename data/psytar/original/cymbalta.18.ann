@@ -1,0 +1,10 @@
+T0	adr 10 15	dizzy
+T1	adr 17 24	anxiety
+T2	adr 26 35	dry mouth
+T3	adr 37 49	muscle aches
+T4	adr 51 73	lack of concentraction
+T5	adr 75 86	memory loss
+T6	adr 88 106	whole body is numb
+T7	adr 195 228	anxiety was starting to get worse
+T8	disease 17 24	anxiety
+T9	symptom 17 24	anxiety

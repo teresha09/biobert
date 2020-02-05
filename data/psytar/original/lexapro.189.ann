@@ -1,0 +1,12 @@
+T0	adr 296 304	nauseous
+T1	adr 535 543	sweating
+T2	adr 553 574	terrible panic attack
+T3	adr 597 609	heart racing
+T4	adr 611 627	swallowed breath
+T5	adr 629 657	felt emotionally traumatized
+T6	disease 39 49	depression
+T7	disease 52 67	anxiety attacks
+T8	disease 52 59	anxiety
+T9	symptom 39 49	depression
+T10	symptom 52 67	anxiety attacks
+T11	symptom 52 59	anxiety

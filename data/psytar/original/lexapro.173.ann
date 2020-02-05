@@ -1,0 +1,11 @@
+T0	disease 165 180	sleeping better
+T1	disease 202 216	pounding heart
+T2	disease 268 273	flaky
+T3	disease 278 300	couldn't be counted on
+T4	symptom 94 122	generalized anxiety disorder
+T5	symptom 127 137	depression
+T6	symptom 127 137	depression
+T7	symptom 165 180	sleeping better
+T8	symptom 202 216	pounding heart
+T9	symptom 268 273	flaky
+T10	symptom 278 300	couldn't be counted on

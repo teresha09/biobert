@@ -1,0 +1,15 @@
+T0	adr 74 94	occasional head rush
+T1	adr 123 138	foggy thinking 
+T2	adr 140 157	sluggish thoughts
+T3	adr 244 262	extremely nauseous
+T4	adr 267 309	almost fainted when lifting a heavy object
+T5	adr 434 448	slowed mindset
+T6	adr 747 776	loss of cognitive capacity
+T7	disease 463 481	excessive worrying
+T8	disease 498 509	feeling sad
+T9	disease 514 525	pessimistic
+T10	disease 850 860	depression
+T11	symptom 463 481	excessive worrying
+T12	symptom 498 509	feeling sad
+T13	symptom 514 525	pessimistic
+T14	symptom 850 860	depression

@@ -1,0 +1,16 @@
+T0	adr 0 7	yawning
+T1	adr 9 16	fatigue
+T2	adr 18 32	loss of libido
+T3	adr 33 53	ability to ejaculate
+T4	adr 55 78	loss of emotional range
+T5	adr 137 148	very sleepy
+T6	adr 188 222	yawn constantly and uncontrollably
+T7	adr 362 382	problems ejaculating
+T8	adr 403 421	very slow to anger
+T9	adr 433 452	very slow to excite
+T10	adr 457 476	emotions feel muted
+T11	adr 524 536	listlessness
+T12	adr 574 600	life is without excitement
+T13	disease 547 556	depressed
+T14	symptom 492 506	compulsiveness
+T15	symptom 547 556	depressed

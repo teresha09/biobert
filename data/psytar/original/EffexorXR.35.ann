@@ -1,0 +1,7 @@
+T0	adr 0 10	drowsiness
+T1	adr 12 20	delirium
+T2	adr 22 34	constipation
+T3	adr 36 43	fatigue
+T4	adr 45 53	weakness
+T5	adr 55 67	listlessness
+T6	adr 69 77	insomnia

@@ -1,0 +1,12 @@
+T0	adr 3 21	tired all day long
+T1	adr 22 32	low energy
+T2	adr 40 47	yawning
+T3	adr 116 127	weight gain
+T4	disease 284 295	crying jags
+T5	disease 315 322	anxiety
+T6	disease 346 352	stress
+T7	disease 414 435	jump off the deap end
+T8	symptom 284 295	crying jags
+T9	symptom 315 322	anxiety
+T10	symptom 346 352	stress
+T11	symptom 414 435	jump off the dead end

@@ -1,0 +1,13 @@
+T0	adr 0 16	vivid nightmares
+T1	adr 18 24	sweats
+T2	adr 26 47	higher anxiety levels
+T3	adr 49 64	memory problems
+T4	adr 66 88	concentration problems
+T5	adr 90 104	teeth grinding
+T6	adr 109 126	clenching of jaws
+T7	adr 291 321	50 percent bone loss in my jaw
+T8	adr 90 104	teeth grinding
+T9	disease 33 40	anxiety
+T10	disease 729 739	depression
+T11	symptom 33 40	anxiety
+T12	symptom 729 739	depression

@@ -1,0 +1,13 @@
+T0	adr 41 51	mild mania
+T1	adr 56 66	depression
+T2	adr 161 172	stimulating
+T3	adr 183 205	hyper for a few months
+T4	adr 161 172	stimulating
+T5	adr 303 326	hyper for quite a while
+T6	disease 56 66	depression
+T7	disease 56 66	depression
+T8	symptom 41 51	mild mania
+T9	symptom 56 66	depression
+T10	symptom 56 66	depression
+T11	symptom 56 66	depression
+T12	symptom 56 66	depression

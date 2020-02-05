@@ -1,0 +1,17 @@
+T0	adr 21 30	dizziness
+T1	adr 32 41	moodiness
+T2	adr 43 52	agitation
+T3	adr 54 65	no patience
+T4	adr 67 75	insomnia
+T5	adr 77 94	suicidal thoughts
+T6	adr 248 255	anxiety
+T7	adr 6 19	head pressure
+T8	adr 21 30	dizziness
+T9	adr 283 307	insomnia were unbearable
+T10	adr 363 382	head pressure worse
+T11	adr 430 451	feeling head pressure
+T12	adr 32 41	moodiness
+T13	adr 6 19	head pressure
+T14	adr 363 377	head pressure 
+T15	disease 216 226	depression
+T16	symptom 216 226	depression

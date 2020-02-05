@@ -1,0 +1,19 @@
+T0	adr 210 219	headaches
+T1	adr 379 362	can't sleep
+T2	adr 379 395	can't stay awake
+T3	adr 412 421	lethargic
+T4	adr 423 428	dizzy
+T5	adr 430 444	blurred vision
+T6	adr 446 461	extreme fatigue
+T7	adr 463 491	extreme increase in appetite
+T8	adr 454 457	fat
+T9	adr 1152 1161	exhausted
+T10	adr 1164 1177	feel hopeless
+T11	disease 83 92	depressed
+T12	disease 100 107	anxious
+T13	disease 690 697	anxiety
+T14	disease 700 710	depression
+T15	symptom 83 92	depressed
+T16	symptom 100 108	anxious,
+T17	symptom 690 697	anxiety
+T18	symptom 700 710	depression

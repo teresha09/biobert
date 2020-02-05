@@ -1,0 +1,13 @@
+T0	adr 0 14	loss of libido
+T1	adr 16 26	drowsiness
+T2	adr 219 225	sleepy
+T3	adr 240 258	constantly napping
+T4	adr 420 456	didn't have much of a libido anymore
+T5	disease 70 79	depressed
+T6	disease 84 92	suicidal
+T7	disease 70 79	depressed
+T8	symptom 70 79	depressed
+T9	symptom 84 92	suicidal
+T10	symptom 70 79	depressed
+T11	symptom 70 79	depressed
+T12	symptom 353 385	slept to avoid how i was feeling

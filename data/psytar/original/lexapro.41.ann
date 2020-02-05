@@ -1,0 +1,7 @@
+T0	adr 27 36	headaches
+T1	adr 38 63	brain "zaps" occasionally
+T2	adr 65 83	extreme sleepiness
+T3	adr 85 97	vivid dreams
+T4	adr 99 116	loss of sex drive
+T5	disease 234 244	depression
+T6	symptom 234 244	depression

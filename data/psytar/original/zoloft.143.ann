@@ -1,0 +1,22 @@
+T0	adr 0 42	increased migraine frequency
+T1	adr 0 42	increased headaches frequency
+T2	adr 82 91	vomitting
+T3	adr 93 99	nausea
+T4	adr 101 122	initially constipated
+T5	adr 133 141	diarrhea
+T6	adr 143 164	disturbing twitching 
+T7	adr 218 232	very dry mouth
+T8	adr 234 248	loss of libido
+T9	adr 327 346	occasional yawnitis
+T10	adr 403 427	terrible motion sickness
+T11	adr 562 574	irritability
+T12	adr 834 849	 panic attacks 
+T13	adr 858 896	weird tingly feeling for first 2 weeks
+T14	adr 575 595	 fall asleep at work
+T15	adr 678 714	waking up in the middle of the night
+T16	disease 562 574	irritability
+T17	disease 1061 1068	anxiety
+T18	symptom 562 574	irritability
+T19	symptom 1061 1068	anxiety
+T20	symptom 1082 1116	 trouble waking up in the morning 
+T21	symptom 1136 1146	depression

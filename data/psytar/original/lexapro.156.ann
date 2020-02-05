@@ -1,0 +1,6 @@
+T0	disease 299 309	depression
+T1	disease 346 353	anxiety
+T2	disease 424 437	panic attacks
+T3	symptom 299 309	depression
+T4	symptom 346 353	anxiety
+T5	symptom 424 437	panic attacks

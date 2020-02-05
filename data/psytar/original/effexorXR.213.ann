@@ -1,0 +1,15 @@
+T0	adr 61 76	a bit of nausea
+T1	adr 81 95	mild dizziness
+T2	adr 86 95	dizziness
+T3	adr 316 329	mild headache
+T4	disease 249 259	depression
+T5	disease 594 614	got my appetite back
+T6	disease 641 658	weight i had lost
+T7	disease 677 684	anxiety
+T8	disease 249 259	depression
+T9	symptom 249 259	depression
+T10	symptom 594 614	got my appetite back
+T11	symptom 641 658	weight i had lost
+T12	symptom 677 684	anxiety
+T13	symptom 249 259	depression
+T14	symptom 249 259	depression

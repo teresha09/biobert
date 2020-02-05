@@ -1,0 +1,11 @@
+T0	adr 35 46	memory loss
+T1	adr 48 70	unable to recall names
+T2	adr 74 82	diarrhea
+T3	adr 84 102	delayed processing
+T4	adr 103 111	insomnia
+T5	adr 121 128	fatigue
+T6	adr 149 144	some hair loss
+T7	adr 149 165	some weight loss
+T8	disease 230 251	paralyzing depression
+T9	symptom 230 251	paralyzing depression
+T10	symptom 241 251	depression

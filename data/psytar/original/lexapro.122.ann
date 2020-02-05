@@ -1,0 +1,16 @@
+T0	adr 0 11	weight gain
+T1	adr 13 20	fatigue
+T2	adr 22 38	unable to orgasm
+T3	adr 59 67	insomnia
+T4	adr 69 85	lack of sympathy
+T5	adr 87 93	apathy
+T6	adr 95 106	losing hair
+T7	adr 184 198	cannot orgasm 
+T8	adr 278 295	won't go to sleep
+T9	adr 324 354	want to sleep in the afternoon
+T10	adr 95 106	losing hair
+T11	adr 424 437	gained weight
+T12	disease 123 133	depression
+T13	disease 138 145	anxiety
+T14	symptom 123 133	depression
+T15	symptom 138 145	anxiety

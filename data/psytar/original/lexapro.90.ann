@@ -1,0 +1,11 @@
+T0	adr 0 11	nervousness
+T1	adr 12 20	shakines
+T2	adr 23 51	occasional "electrical zaps"
+T3	adr 92 100	diahrrea
+T4	adr 105 117	constipation
+T5	adr 123 149	urge to drink more alcohol
+T6	adr 476 501	drank a lot more alcohol 
+T7	disease 178 188	depression
+T8	disease 210 217	anxiety
+T9	symptom 178 188	depression
+T10	symptom 210 217	anxiety

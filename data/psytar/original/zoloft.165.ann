@@ -1,0 +1,11 @@
+T0	adr 233 55	anxiety increased tenfold
+T1	adr 61 73	panic attcks
+T2	adr 75 87	disconnected
+T3	adr 88 106	spaced out feeling
+T4	disease 212 220	insomnia
+T5	disease 233 240	anxiety
+T6	disease 269 278	depressed
+T7	symptom 233 240	anxiety
+T8	symptom 212 220	insomnia
+T9	symptom 233 240	anxiety
+T10	symptom 269 278	depressed

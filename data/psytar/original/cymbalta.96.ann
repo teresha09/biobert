@@ -1,0 +1,13 @@
+T0	adr 0 24	weight gain (50+ pounds)
+T1	adr 25 44	high blood pressure
+T2	adr 45 58	skin problems
+T3	adr 59 96	tiny wounds would not heal for months
+T4	adr 98 139	frequently developed into skin infections
+T5	adr 181 215	loss of interest in all activities
+T6	adr 216 249	loss of interest in relationships
+T7	adr 250 265	extreme fatigue
+T8	adr 266 294	wanted to sleep all the time
+T9	adr 295 319	could not feel happiness
+T10	adr 295 326	could not feel joy
+T11	adr 357 379	have suicidal thoughts
+T12	symptom 345 355	depression

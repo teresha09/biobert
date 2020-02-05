@@ -1,0 +1,16 @@
+T0	adr 14 28	not sleep well
+T1	adr 30 39	dry mouth
+T2	adr 41 59	sexual disfunction
+T3	adr 61 71	bad memory
+T4	adr 73 83	bad dreams
+T5	adr 85 99	endless energy
+T6	disease 235 239	pain
+T7	disease 244 254	neuropathy
+T8	disease 277 287	depression
+T9	disease 1010 1025	dark depression
+T10	disease 235 239	pain
+T11	symptom 235 239	pain
+T12	symptom 244 254	neuropathy
+T13	symptom 277 287	depression
+T14	symptom 1010 1025	dark depression
+T15	symptom 235 239	pain

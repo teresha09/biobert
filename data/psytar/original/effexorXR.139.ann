@@ -1,0 +1,5 @@
+T0	adr 0 13	mild insomnia
+T1	disease 100 109	depressiv
+T2	disease 113 129	anxiety disorder
+T3	symptom 100 109	depressiv
+T4	symptom 113 129	anxiety disorder

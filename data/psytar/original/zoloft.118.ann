@@ -1,0 +1,9 @@
+T0	adr 8 32	weight loss in beginning
+T1	adr 34 46	0% sex drive
+T2	adr 48 67	difficulty sleeping
+T3	adr 69 79	nightmares
+T4	adr 81 97	profuse sweating
+T5	adr 69 79	nightmares
+T6	adr 268 290	seeing things at night
+T7	symptom 229 236	anxiety
+T8	symptom 237 247	depression

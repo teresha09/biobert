@@ -1,0 +1,18 @@
+T0	adr 829 83	extreme tiredness
+T1	adr 144 152	migraine
+T2	adr 168 178	trancelike
+T3	adr 570 298	time discontinuity
+T4	adr 279 298	space discontinuity
+T5	adr 74 344	tiredness or energetic
+T6	adr 369 378	twitching
+T7	adr 389 403	disorientation
+T8	disease 693 703	depression
+T9	disease 980 989	depressed
+T10	disease 1012 1023	mood swings
+T11	disease 980 989	depressed
+T12	disease 1231 1238	anxiety
+T13	symptom 693 703	depression
+T14	symptom 980 989	depressed
+T15	symptom 1012 1023	mood swings
+T16	symptom 980 989	depressed
+T17	symptom 1231 1238	anxiety

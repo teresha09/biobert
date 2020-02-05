@@ -1,0 +1,10 @@
+T0	adr 101 117	stomach cramping
+T1	adr 122 147	stomach hurt all the time
+T2	adr 149 164	disturbed sleep
+T3	adr 169 191	trouble falling asleep
+T4	adr 193 200	fatigue
+T5	adr 202 211	headaches
+T6	symptom 10 17	anxiety
+T7	symptom 226 236	depression
+T8	symptom 241 258	suicidal thoughts
+T9	symptom 226 236	depression

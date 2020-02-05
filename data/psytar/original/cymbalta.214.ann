@@ -1,0 +1,16 @@
+T0	adr 360 16	loss of appetite
+T1	adr 360 27	loss of weight
+T2	adr 130 162	slight "loosening of the stools"
+T3	adr 231 286	a little sleepy, first few weeks
+T4	adr 288 315	dry mouth in the first week
+T5	adr 333 352	appetite supression
+T6	adr 353 364	weight loss
+T7	adr 369 386	anti-constipating
+T8	disease 465 486	explosive mood swings
+T9	disease 497 512	more easygoing 
+T10	disease 497 522	more stable
+T11	disease 664 686	fear of abandonment
+T12	disease 654 659	needy
+T13	symptom 465 486	explosive mood swings
+T14	symptom 654 659	needy
+T15	symptom 664 686	fear of abandonment

@@ -1,0 +1,7 @@
+T0	adr 16 26	sleepiness
+T1	adr 28 52	dizziness first few days
+T2	adr 54 70	inability to cry
+T3	adr 72 79	anxiety
+T4	adr 3 371	at times, felt very anxious
+T5	disease 470 480	depression
+T6	symptom 470 480	depression

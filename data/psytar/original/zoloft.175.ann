@@ -1,0 +1,6 @@
+T0	disease 79 94	anxiety attacks
+T1	disease 99 109	depression
+T2	disease 213 230	 negative thought
+T3	symptom 79 94	anxiety attacks
+T4	symptom 99 109	depression
+T5	symptom 213 230	 negative thought

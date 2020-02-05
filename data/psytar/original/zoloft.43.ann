@@ -1,0 +1,15 @@
+T0	adr 0 29	headache on left side of head
+T1	adr 31 44	left eye pain
+T2	adr 46 62	numbness in face
+T3	adr 46 79	numbness in legs
+T4	adr 81 92	stiff neck 
+T5	adr 81 105	stiff shoulders
+T6	adr 107 119	vivid dreams
+T7	adr 120 132	no sex drive
+T8	adr 46 74	numbness in arms
+T9	adr 151 164	anxiety worse
+T10	adr 40 233	pain in left arm
+T11	adr 251 258	nervous
+T12	adr 272 290	hypochondria worse
+T13	symptom 151 158	anxiety
+T14	symptom 272 284	hypochondria

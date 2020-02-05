@@ -1,0 +1,15 @@
+T0	adr 0 7	vertigo
+T1	adr 9 17	sweating
+T2	adr 19 31	vivid dreams
+T3	adr 9 14	sweat
+T4	disease 264 275	 joint pain
+T5	disease 297 307	depression
+T6	disease 264 275	 joint pain
+T7	disease 271 275	pain
+T8	disease 297 307	depression
+T9	symptom 264 275	 joint pain
+T10	symptom 297 307	depression
+T11	symptom 264 275	 joint pain
+T12	symptom 796 808	fibromyalgia
+T13	symptom 270 276	 pain 
+T14	symptom 297 307	depression

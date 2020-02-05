@@ -1,0 +1,15 @@
+T0	adr 0 16	severe migraines
+T1	adr 18 41	extremely low sex drive
+T2	adr 43 48	mania
+T3	adr 50 62	excitability
+T4	adr 64 83	difficulty sleeping
+T5	adr 85 96	weight gain
+T6	adr 98 112	rapid thinking
+T7	disease 168 175	anxiety
+T8	disease 180 190	depression
+T9	disease 319 338	thought of suicide
+T10	disease 180 190	depression
+T11	symptom 168 175	anxiety
+T12	symptom 180 190	depression
+T13	symptom 319 338	thought of suicide
+T14	symptom 180 190	depression

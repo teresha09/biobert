@@ -1,0 +1,19 @@
+T0	adr 0 14	loss of libido
+T1	adr 16 33	stabilized weight
+T2	adr 35 71	periods of heightened aggressiveness
+T3	disease 539 574	highs and lows i used to experience
+T4	disease 596 637	well up with emotion at the drop of a hat
+T5	disease 641 701	finally felt in some sort of control over my emotional state
+T6	disease 911 920	worthless
+T7	disease 925 932	useless
+T8	symptom 137 147	depression
+T9	symptom 224 242	emotional disorder
+T10	symptom 539 574	highs and lows i used to experience
+T11	symptom 596 637	well up with emotion at the drop of a hat
+T12	symptom 641 701	finally felt in some sort of control over my emotional state
+T13	symptom 137 147	depression
+T14	symptom 796 803	fatigue
+T15	symptom 805 828	loss of interest in sex
+T16	symptom 842 860	lack of motivation
+T17	symptom 911 920	worthless
+T18	symptom 925 932	useless

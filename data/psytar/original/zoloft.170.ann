@@ -1,0 +1,16 @@
+T0	adr 808 26	in the beginning, headache
+T1	adr 808 52	in the beginning, gastrointestinal effects
+T2	adr 808 63	in the beginning, brain fog
+T3	adr 808 75	in the beginning, perspiring
+T4	adr 77 84	jittery
+T5	adr 86 100	sexual effects
+T6	adr 190 209	occasonal headaches
+T7	adr 215 222	jitters
+T8	symptom 340 353	panic attacks
+T9	symptom 358 368	depression
+T10	symptom 388 417	unable to come out of my room
+T11	symptom 435 442	worried
+T12	symptom 792 851	scared of being in the kitchen because the knives are sharp
+T13	symptom 856 888	not being able to get out of bed
+T14	symptom 358 368	depression
+T15	symptom 947 983	to much of a load on your heart/mind

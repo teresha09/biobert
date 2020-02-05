@@ -1,0 +1,7 @@
+T0	adr 0 12	constipation
+T1	adr 14 33	drastic mood swings
+T2	disease 50 57	anxiety
+T3	disease 62 67	panic
+T4	symptom 50 57	anxiety
+T5	symptom 62 67	panic
+T6	symptom 91 101	depression

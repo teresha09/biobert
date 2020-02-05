@@ -1,0 +1,20 @@
+T0	adr 32 17	suicidal ideation
+T1	adr 19 30	weight gain
+T2	adr 32 51	suicidal tendencies
+T3	adr 53 69	tingling fingers
+T4	adr 71 76	dizzy
+T5	adr 78 84	tremor
+T6	adr 86 94	insomnia
+T7	adr 246 271	not process thoughts well
+T8	adr 285 309	difficult to concentrate
+T9	adr 285 322	difficult to function
+T10	adr 336 359	very shakey in my hands
+T11	adr 396 432	tying a bow or a knot very difficult
+T12	adr 447 460	hard to focus
+T13	adr 482 501	memory difficulties
+T14	adr 509 540	carrying out 'risky' behaviours
+T15	adr 574 610	ended up in the emergency department
+T16	adr 647 658	over-dosing
+T17	adr 1534 1559	risky suicidal behaviours
+T18	disease 1154 1164	depression
+T19	symptom 1154 1164	depression

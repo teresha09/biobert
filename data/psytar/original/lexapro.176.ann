@@ -1,0 +1,9 @@
+T0	adr 0 8	headache
+T1	adr 10 19	dizziness
+T2	adr 21 38	loss of sex drive
+T3	adr 40 48	insomnia
+T4	adr 233 261	headaches the first few days
+T5	disease 197 204	anxiety
+T6	disease 469 491	disconnected from life
+T7	symptom 197 204	anxiety
+T8	symptom 469 491	disconnected from life

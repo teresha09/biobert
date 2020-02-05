@@ -1,0 +1,13 @@
+T0	adr 347 356	dizziness
+T1	adr 11 38	loss of appetite initially
+T2	adr 42 60	staring into space
+T3	adr 261 311	no appetite for about 2 months, went away
+T4	adr 347 370	dizziness when standing
+T5	adr 495 516	dizziness to be worse
+T6	adr 553 568	see black spots
+T7	adr 629 634	dizzy
+T8	adr 679 697	sometimes zone out
+T9	disease 180 190	depression
+T10	disease 802 810	feel low
+T11	symptom 180 190	depression
+T12	symptom 802 810	feel low

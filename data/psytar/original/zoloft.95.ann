@@ -1,0 +1,11 @@
+T0	adr 19 33	manic episodes
+T1	adr 35 51	trouble sleeping
+T2	adr 150 171	severe manic episodes
+T3	adr 192 223	driving 500 miles for no reason
+T4	adr 225 246	not sleeping for days
+T5	adr 417 422	mania
+T6	disease 80 95	suicide attempt
+T7	disease 372 387	balance my mood
+T8	symptom 80 95	suicide attempt
+T9	symptom 372 387	balance my mood
+T10	symptom 417 422	mania

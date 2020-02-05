@@ -1,0 +1,13 @@
+T0	adr 28 50	almost constant nausea
+T1	adr 52 61	migraines
+T2	adr 63 96	intense panic first couple nights
+T3	disease 173 181	worrying
+T4	disease 219 228	depressed
+T5	disease 239 251	panic attack
+T6	disease 465 475	depression
+T7	disease 480 487	anxiety
+T8	symptom 173 181	worrying
+T9	symptom 219 228	depressed
+T10	symptom 239 251	panic attack
+T11	symptom 465 475	depression
+T12	symptom 480 487	anxiety
