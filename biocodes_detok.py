@@ -1,6 +1,6 @@
 class Detok:
 
-    def __init(self,golden_path,tokens,labels,save_to):
+    def __init__(self,golden_path,tokens,labels,save_to):
         self.golden_path = golden_path
         self.tokens = tokens
         self.labels = labels
