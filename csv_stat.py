@@ -14,7 +14,7 @@ args = parser.parse_args()
 dirs = args.directory
 temp_file = open(os.path.join("data", "temporary.csv"), "w")
 writer = csv.writer(temp_file)
-l = [["corpus","file","entity","number tokens","number_entities","prediction psytar","prediction cadec","correct psytar","correct cadec"]]
+l = [["corpus","file","entity","number tokens","number_entities","prediction psytar","prediction cadec","correct psytar","correct cadec","class"]]
 n_ent = "n_ent"
 for dir in os.listdir(dirs):
     if dir.split("_")[0] == "psytar" or not os.path.isdir(os.path.join(dirs, dir)):
@@ -39,6 +39,8 @@ for dir in os.listdir(dirs):
             entity_text = i['entities'][j]['text']
             if corpus == "psytar":
                 coe = get_class(entity_text,args.entity, filename)
+            else:
+                coe = ''
             n_toks = len(entity_text)
             pred_psytar = comparison(i['entities'][j]['start'], i['entities'][j]['start'],
                                      os.path.join(brat_folder1, filename)).replace("\n", '')
@@ -46,7 +48,7 @@ for dir in os.listdir(dirs):
                                     os.path.join(brat_folder1, filename)).replace("\n", '')
             flag_psytar = True if pred_psytar == entity_text else False
             flag_cadec = True if pred_cadec == entity_text else False
-            l.append([corpus, filename, entity_text, n_toks, n_ent, pred_psytar, pred_cadec,flag_psytar, flag_cadec])
+            l.append([corpus, filename, entity_text, n_toks, n_ent, pred_psytar, pred_cadec,flag_psytar, flag_cadec,coe])
 writer.writerows(l)
 temp_file.close()
 ent_dict = {}
