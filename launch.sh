@@ -1,16 +1,13 @@
 #!/bin/bash
 TMP_DIR=$1
-
-python3 main_pre.py -data data/cadec,data/psytar -folds_path data/cadec_folds,data/psytar_folds \
-    -bio_paths data/cadec_folds_biobert,data/psytar_folds_biobert -n_folds 5 \
-    -entity adr -tagger averaged_perceptron_tagger -vocab_file BIOBERT_DIR/vocab.txt
-
-
 cadecarr=()
 psytararr=()
 SCRIPTPATH=$( cd "$(dirname "$0")" ; pwd -P )
 BIOBERT_DIR=${SCRIPTPATH}/BIOBERT_DIR
 IFS=$'\n'
+python3 main_pre.py -data data/cadec,data/psytar -folds_path data/cadec_folds,data/psytar_folds \
+    -bio_paths data/cadec_folds_biobert,data/psytar_folds_biobert -n_folds 5 \
+    -entity adr -tagger averaged_perceptron_tagger -vocab_file ${BIOBERT_DIR}/vocab.txt
 for directory in ${SCRIPTPATH}/data/cadec_folds_biobert/*
 do
 for fold in $directory

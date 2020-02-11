@@ -7,6 +7,7 @@ from nltk.stem import WordNetLemmatizer
 import nltk
 from nltk.corpus import wordnet
 from nltk import pos_tag
+from tqdm import tqdm
 import argparse
 
 import tokenization
@@ -38,9 +39,12 @@ class Json2conll:
         delimitter_start = None
         text = text.replace('й', 'и')
         text = text.replace("ё", "е")
+        pbar = tqdm(total=len(text))
         while text[w_start:w_start + len(token)] != token or (delimitter_start == None and w_start != 0):
             w_start += 1
             delimitter_start = delimitter_start or w_start
+            pbar.update(1)
+        pbar.update(len(text)-w_start)
         return w_start, w_start + len(token), text[delimitter_start:w_start]
 
     def get_bio_tag(self,w_start, w_end, entities, entity_type):
