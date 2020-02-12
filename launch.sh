@@ -50,7 +50,7 @@ python3 run_ner.py --do_train=false --do_predict=true --do_eval=true --vocab_fil
     --data_dir="${psytararr[$i]}" \
     --output_dir=$outputdir1
 python3 main_post.py -data_bio ${cadecarr[$i]} -result_folder ${outputdir} -data ${SCRIPTPATH}/data/cadec_folds/0${i} -entity adr -perl_path biocodes/conlleval.pl
-python3 main_post.py -data ${psytararr[$i]} -result_folder ${outputdir1} -data ${SCRIPTPATH}/data/psytar_folds/0${i}/test.json -entity adr -perl_path -perl_path biocodes/conlleval.pl
+python3 main_post.py -data ${psytararr[$i]} -result_folder ${outputdir1} -data ${SCRIPTPATH}/data/psytar_folds/0${i}/test.json -entity adr -perl_path biocodes/conlleval.pl
 done
 for (( i=0; i < "${#psytararr[@]}"; i++ ))
 do
