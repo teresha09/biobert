@@ -1,0 +1,6 @@
+T0	adr 0 6	naseau
+T1	adr 8 17	tiredness
+T2	symptom 58 79	hardly get out of bed
+T3	symptom 160 178	unable to function
+T4	SSI 58 79	hardly get out of bed
+T5	SSI 160 178	unable to function

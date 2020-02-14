@@ -1,0 +1,10 @@
+T0	adr 0 20	fuzzy "high" feeling
+T1	adr 22 28	sleepy
+T2	adr 30 48	can't stop yawning
+T3	adr 258 266	in a fog
+T4	adr 318 332	wake up groggy
+T5	adr 298 27	want to sleep
+T6	adr 542 554	 semi-zombie
+T7	adr 695 716	appetite's diminished
+T8	symptom 76 102	obsessive endless thoughts
+T9	SSI 76 102	obsessive endless thoughts

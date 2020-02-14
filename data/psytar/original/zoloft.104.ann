@@ -1,0 +1,22 @@
+T0	adr 0 12	night sweats
+T1	adr 14 21	yawning
+T2	adr 23 35	vivid dreams
+T3	adr 56 81	the first week felt dizzy
+T4	adr 83 106	slightly reduced libido
+T5	adr 111 145	more difficulty in reaching orgasm
+T6	adr 512 528	feel tired a lot
+T7	adr 626 642	harder to climax
+T8	symptom 197 206	depressed
+T9	symptom 207 224	suicidal thoughts
+T10	symptom 261 268	anxiety
+T11	symptom 273 295	self-destructive urges
+T12	symptom 485 494	miserable
+T13	symptom 499 508	irritable
+T14	symptom 741 751	depression
+T15	SSI 197 206	depressed
+T16	SSI 207 224	suicidal thoughts
+T17	SSI 261 268	anxiety
+T18	SSI 273 295	self-destructive urges
+T19	SSI 485 494	miserable
+T20	SSI 499 508	irritable
+T21	SSI 741 751	depression

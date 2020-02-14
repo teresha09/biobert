@@ -1,0 +1,13 @@
+T0	adr 0 8	jaw-lock
+T1	adr 10 26	muscle tightness
+T2	adr 28 39	dehydration
+T3	adr 44 53	dry mouth
+T4	adr 230 244	lowered libido
+T5	adr 254 273	chronic muscle pain
+T6	adr 516 560	weird increase in my sugar sensitivity
+T7	symptom 841 851	depression
+T8	symptom 841 851	depression
+T9	SSI 486 493	anxiety
+T10	SSI 841 851	depression
+T11	SSI 1041 1048	suicide
+T12	SSI 841 851	depression

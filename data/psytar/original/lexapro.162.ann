@@ -1,0 +1,13 @@
+T0	adr 219 237	stomach discomfort
+T1	adr 20 47	initially some night sweats
+T2	adr 49 62	jaw clenching
+T3	adr 211 237	extreme stomach discomfort
+T4	adr 292 312	abdomen is tensed up
+T5	adr 631 669	stomach discomfort has faded about 75%
+T6	adr 20 756	initially extreme night sweats 
+T7	adr 760 818	some jaw clencing at night passed within a week
+T8	adr 975 1003	sex drive seems a little low
+T9	symptom 558 584	increased ability to sleep
+T10	symptom 616 624	 anxious
+T11	SSI 558 584	increased ability to sleep
+T12	SSI 616 624	 anxious

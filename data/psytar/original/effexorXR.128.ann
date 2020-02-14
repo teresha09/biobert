@@ -1,0 +1,8 @@
+T0	adr 45 57	vivid dreams
+T1	adr 59 71	night sweats
+T2	adr 73 89	loss of appetite
+T3	adr 91 97	nausea
+T4	adr 159 168	headaches
+T5	symptom 472 482	depression
+T6	SSI 266 275	depressed
+T7	SSI 472 482	depression

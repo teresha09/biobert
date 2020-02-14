@@ -1,0 +1,7 @@
+T0	adr 10 22	crazy dreams
+T1	adr 24 47	periods of night sweats
+T2	adr 49 61	constipation
+T3	adr 63 90	decreased short term memory
+T4	adr 92 115	decreased attentiveness
+T5	symptom 547 557	depression
+T6	SSI 547 557	depression

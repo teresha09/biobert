@@ -1,0 +1,12 @@
+T0	adr 617 625	sweating
+T1	adr 609 615	nausea
+T2	symptom 121 145	lost everyone in my life
+T3	symptom 206 216	depression
+T4	symptom 217 264	eat away at my relationships with others
+T5	symptom 322 344	life filled with doubt
+T6	symptom 400 421	roller coaster effect
+T7	SSI 121 145	lost everyone in my life
+T8	SSI 206 216	depression
+T9	SSI 217 264	eat away at my relationships with others
+T10	SSI 322 344	life filled with doubt
+T11	SSI 400 421	roller coaster effect

@@ -1,0 +1,14 @@
+T0	adr 18 29	no appetite
+T1	adr 31 38	fatigue
+T2	adr 40 52	no sex drive
+T3	adr 98 123	random tics when at rest 
+T4	adr 173 191	knees shake a bit 
+T5	adr 198 248	dexterity seem a little impacted going down stairs
+T6	symptom 427 446	panic while driving
+T7	symptom 448 455	worried
+T8	symptom 498 523	could not functioning at work
+T9	symptom 548 577	didn't want to get out of bed
+T10	SSI 427 446	panic while driving
+T11	SSI 448 455	worried
+T12	SSI 498 523	could not functioning at work
+T13	SSI 548 577	didn't want to get out of bed

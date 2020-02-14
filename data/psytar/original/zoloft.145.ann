@@ -1,0 +1,8 @@
+T0	adr 88 109	decrease in sex drive
+T1	adr 114 137	increase in weight gain
+T2	adr 319 331	weight gain 
+T3	adr 335 350	sex drive issue
+T4	symptom 227 234	anxiety
+T5	symptom 239 249	depression
+T6	SSI 227 234	anxiety
+T7	SSI 239 249	depression

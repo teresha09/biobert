@@ -1,0 +1,5 @@
+T0	adr 11 22	weight gain
+T1	adr 24 38	slightly moody
+T2	adr 40 49	irritable
+T3	symptom 507 526	clinical depression
+T4	SSI 507 526	clinical depression

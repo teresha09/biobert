@@ -1,0 +1,12 @@
+T0	adr 8 43	first two weeks, very nauseous
+T1	adr 104 120	loss of appetite
+T2	adr 154 177	continue to lose weight
+T3	adr 195 213	lost thirty pounds
+T4	adr 307 320	sleeplessness
+T5	adr 383 393	weightlose
+T6	symptom 69 84	neuropathy pain
+T7	symptom 503 513	depression
+T8	symptom 69 84	neuropathy pain
+T9	SSI 69 84	neuropathy pain
+T10	SSI 503 513	depression
+T11	SSI 69 84	neuropathy pain

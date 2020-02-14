@@ -1,0 +1,20 @@
+T0	adr 567 974	worse brain fog
+T1	adr 107 131	loss of appetite control
+T2	adr 164 173	dry mouth
+T3	adr 175 193	heart palpitations
+T4	adr 195 210	urine retention
+T5	adr 213 218	edema
+T6	adr 884 913	loss of control with appetite
+T7	adr 965 975	brain fog 
+T8	symptom 65 78	fibromyalgia 
+T9	symptom 397 405	suicidal
+T10	symptom 439 451	panic attack
+T11	SSI 522 525	mdd
+T12	SSI 298 303	panic
+T13	SSI 309 316	anxiety
+T14	SSI 65 78	fibromyalgia 
+T15	SSI 397 405	suicidal
+T16	SSI 439 451	panic attack
+T17	SSI 500 510	exhaustion
+T18	SSI 521 525	pmdd
+T19	SSI 527 535	shingles

@@ -1,0 +1,8 @@
+T0	adr 4 34	first few days were like a fog
+T1	adr 38 53	didn't eat much
+T2	adr 61 67	nausea
+T3	adr 96 104	headache
+T4	symptom 365 384	horrible depression
+T5	symptom 389 396	anxiety
+T6	SSI 365 384	horrible depression
+T7	SSI 389 396	anxiety

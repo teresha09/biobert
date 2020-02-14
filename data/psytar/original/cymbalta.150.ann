@@ -1,0 +1,10 @@
+T0	adr 578 12	not sleeping
+T1	adr 14 20	chills
+T2	adr 25 30	fever
+T3	adr 32 58	inability to drink alcohol
+T4	adr 435 460	sleep a few hours a night
+T5	adr 14 20	chills
+T6	adr 479 512	feel like i am on speed or extacy
+T7	symptom 213 217	doom
+T8	symptom 222 227	gloom
+T9	SSI 213 217	doom

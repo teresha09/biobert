@@ -1,0 +1,15 @@
+T0	adr 0 12	vivid dreams
+T1	adr 14 26	no sex drive
+T2	adr 28 37	dry mouth
+T3	adr 41 70	get sick when i drink alcohol
+T4	adr 316 329	having dreams
+T5	symptom 76 83	bipolar
+T6	symptom 105 121	major depression
+T7	symptom 177 191	manic episodes
+T8	symptom 111 121	depression
+T9	symptom 271 290	want to kill myself
+T10	SSI 76 83	bipolar
+T11	SSI 105 121	major depression
+T12	SSI 177 191	manic episodes
+T13	SSI 111 121	depression
+T14	SSI 271 290	want to kill myself

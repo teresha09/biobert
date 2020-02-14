@@ -1,0 +1,13 @@
+T0	adr 8 16	sweating
+T1	adr 18 37	difficulty sleeping
+T2	adr 39 47	diarrhea
+T3	adr 49 68	high blood pressure
+T4	adr 39 320	diarrhea really bugged me
+T5	adr 295 320	sweating really bugged me
+T6	adr 349 371	strengthened my libido
+T7	adr 349 87	strengthened my orgasms
+T8	symptom 197 207	depression
+T9	symptom 218 224	crying
+T10	SSI 197 207	depression
+T11	SSI 218 224	crying
+T12	SSI 249 253	edge

@@ -1,0 +1,6 @@
+T0	adr 8 22	stomach upsets
+T1	adr 101 122	reduced sexual desire
+T2	symptom 171 181	depression
+T3	symptom 186 192	stress
+T4	SSI 171 181	depression
+T5	SSI 186 192	stress

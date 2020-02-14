@@ -1,0 +1,13 @@
+T0	adr 0 9	dry mouth
+T1	adr 11 22	slight rash
+T2	adr 24 42	headaches early on
+T3	adr 44 58	slight fatigue
+T4	adr 60 79	delayed ejaculation
+T5	symptom 343 162	social anxiety
+T6	symptom 205 256	 withdrawal symptoms from alcohol and marijuana use
+T7	symptom 205 256	 withdrawal symptoms from marijuana use
+T8	symptom 278 288	depression
+T9	symptom 332 362	anxiety in social environments
+T10	SSI 343 162	social anxiety
+T11	SSI 278 288	depression
+T12	SSI 332 362	anxiety in social environments

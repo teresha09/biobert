@@ -1,0 +1,9 @@
+T0	adr 0 27	intense increase in anxiety
+T1	adr 0 41	intense increase in agitation
+T2	adr 72 92	episode of hypomania
+T3	adr 98 113	extreme anxiety
+T4	adr 127 147	increased depression
+T5	SSI 20 27	anxiety
+T6	SSI 32 41	agitation
+T7	SSI 97 114	 extreme anxiety 
+T8	SSI 137 147	depression

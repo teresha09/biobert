@@ -1,0 +1,10 @@
+T0	adr 51 84	headache that lasted about a week
+T1	adr 111 162	exhaustion, went away in a couple of days
+T2	symptom 193 213	extreme sensitivity 
+T3	symptom 217 229	irritability
+T4	symptom 250 257	anxiety
+T5	symptom 243 257	social anxiety
+T6	SSI 193 212	extreme sensitivity
+T7	SSI 217 229	irritability
+T8	SSI 250 257	anxiety
+T9	SSI 243 257	social anxiety

@@ -1,0 +1,18 @@
+T0	adr 19 49	jittery for the first few days
+T1	symptom 594 605	mood swings
+T2	symptom 610 614	rage
+T3	symptom 630 640	depression
+T4	symptom 653 665	stressed out
+T5	symptom 670 677	unhappy
+T6	symptom 870 899	kids' antics wig me out
+T7	symptom 995 1049	terrible time sleeping more than three hours at a time
+T8	symptom 1054 1108	spent a couple of hours each night tossing and turning
+T9	SSI 514 523	depressed
+T10	SSI 594 605	mood swings
+T11	SSI 610 614	rage
+T12	SSI 630 640	depression
+T13	SSI 653 665	stressed out
+T14	SSI 670 677	unhappy
+T15	SSI 870 899	kids' antics wig me out
+T16	SSI 995 1049	terrible time sleeping more than three hours at a time
+T17	SSI 1054 1108	spent a couple of hours each night tossing and turning

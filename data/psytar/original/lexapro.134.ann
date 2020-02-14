@@ -1,0 +1,10 @@
+T0	adr 66 75	dizziness
+T1	adr 77 83	nausea
+T2	adr 85 94	headaches
+T3	adr 101 127	feeling of not-being-right
+T4	symptom 203 210	anxiety
+T5	symptom 212 216	fear
+T6	symptom 221 231	depression
+T7	SSI 203 210	anxiety
+T8	SSI 212 216	fear
+T9	SSI 221 231	depression

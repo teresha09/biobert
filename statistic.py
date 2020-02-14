@@ -97,9 +97,9 @@ for directory in sorted(os.listdir(cadec_folds)):
     train_cadec = os.path.join(fold_path_cadec, "train.json")
     test_cadec = os.path.join(fold_path_cadec, "test.json")
 
-    fold_path_psytar = os.path.join(cadec_folds, directory)
-    train_psytar = os.path.join(fold_path_cadec, "train.json")
-    test_psytar = os.path.join(fold_path_cadec, "test.json")
+    fold_path_psytar = os.path.join(psytar_folds, directory)
+    train_psytar = os.path.join(fold_path_psytar, "train.json")
+    test_psytar = os.path.join(fold_path_psytar, "test.json")
 
     out_file = open(stat_path, 'a+')
     out_file.write("fold:{}\n".format(directory))

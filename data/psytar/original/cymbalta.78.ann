@@ -1,0 +1,12 @@
+T0	adr 33 41	insomnia
+T1	adr 133 138	at first constipation
+T2	adr 133 151	at first lethargy
+T3	symptom 270 287	uplift in my mood
+T4	symptom 295 302	anxiety
+T5	symptom 295 303	anxiety 
+T6	symptom 859 869	depression
+T7	symptom 931 956	feel like crying at times
+T8	SSI 295 302	anxiety
+T9	SSI 295 302	anxiety
+T10	SSI 859 869	depression
+T11	SSI 931 956	feel like crying at times

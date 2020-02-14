@@ -1,0 +1,9 @@
+T0	adr 13 22	hair loss
+T1	adr 24 33	headaches
+T2	adr 35 43	insomnia
+T3	adr 227 245	headaches everyday
+T4	adr 247 264	problems sleeping
+T5	adr 266 282	gained 10 pounds
+T6	adr 290 321	lose a handful of hair everyday
+T7	symptom 107 117	depression
+T8	SSI 107 117	depression

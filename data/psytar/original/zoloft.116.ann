@@ -1,0 +1,30 @@
+T0	adr 987 996	dizziness
+T1	adr 11 20	dry mouth
+T2	adr 22 39	mild sour stomach
+T3	adr 55 70	slight insomnia
+T4	adr 72 83	weight loss
+T5	adr 85 96	mild apathy
+T6	adr 98 117	decreased sex drive
+T7	adr 123 130	fatigue
+T8	adr 980 996	slight dizziness
+T9	adr 1001 1009	brainfog
+T10	adr 1031 1042	feel apathy
+T11	adr 1031 1042	feel apathy
+T12	adr 1289 1313	feel slightly numbed out
+T13	adr 1001 1009	brainfog
+T14	symptom 194 204	depression
+T15	symptom 1120 1123	sad
+T16	symptom 414 423	depressed
+T17	symptom 1143 1150	anxious
+T18	symptom 1206 1224	intrusive thoughts
+T19	symptom 1238 1245	nervous
+T20	SSI 194 204	depression
+T21	SSI 226 239	major anxiety
+T22	SSI 265 283	physically painful
+T23	SSI 414 423	depressed
+T24	SSI 194 204	depression
+T25	SSI 1120 1123	sad
+T26	SSI 414 423	depressed
+T27	SSI 1143 1150	anxious
+T28	SSI 1206 1224	intrusive thoughts
+T29	SSI 1238 1245	nervous

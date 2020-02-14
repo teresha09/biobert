@@ -1,0 +1,9 @@
+T0	adr 29 72	beginning few days, hand tremors 
+T1	adr 29 89	beginning few days, couldnt sleep
+T2	adr 507 518	weight gain
+T3	symptom 253 266	disfunctional
+T4	symptom 267 276	depressed
+T5	symptom 414 421	anxiety
+T6	SSI 253 266	disfunctional
+T7	SSI 267 276	depressed
+T8	SSI 414 421	anxiety

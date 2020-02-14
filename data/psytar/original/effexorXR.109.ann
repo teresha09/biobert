@@ -1,0 +1,43 @@
+T0	adr 0 8	sweating
+T1	adr 9 18	dizziness
+T2	adr 38 56	coughing all night
+T3	adr 57 83	can't talk without choking
+T4	adr 85 96	itchy scalp
+T5	adr 97 105	insomnia
+T6	adr 107 119	constipation
+T7	adr 121 131	hard stool
+T8	adr 133 136	gas
+T9	adr 138 153	racing thoughts
+T10	adr 155 169	teeth grinding
+T11	adr 171 180	agitation
+T12	adr 182 214	severe loss of short term memory
+T13	adr 216 242	moments of enhanced colors
+T14	adr 243 261	tired all the time
+T15	adr 263 276	blurry vision
+T16	adr 278 306	extreme sensitivity to light
+T17	adr 278 316	extreme sensitivity to sound
+T18	adr 97 105	insomnia
+T19	adr 331 344	drunk feeling
+T20	adr 352 370	weak immune system
+T21	adr 372 405	brief speedy moments periodically
+T22	adr 435 499	one good day followed by three days of needing to sleep 15 hours
+T23	adr 501 517	light headedness
+T24	adr 519 534	loss of balance
+T25	adr 536 562	complete loss of sex drive
+T26	adr 564 579	void of emotion
+T27	adr 653 667	arid dry mouth
+T28	adr 653 678	arid dry throat
+T29	adr 97 105	insomnia
+T30	adr 955 971	moments of bliss
+T31	adr 216 991	moments of extreme colors
+T32	adr 1148 1168	extreme carb craving
+T33	adr 1182 1218	urge to consume alcohal all the time
+T34	adr 1311 1324	very agitated
+T35	adr 1326 1331	dizzy
+T36	adr 1333 1344	lightheaded
+T37	adr 1346 1357	off balance
+T38	adr 1359 1370	emotionless
+T39	adr 1426 1451	obvious daily weight gain
+T40	adr 1453 1469	bloated stomache
+T41	adr 107 119	constipation
+T42	SSI 1738 1748	depression

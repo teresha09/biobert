@@ -1,0 +1,14 @@
+T0	adr 21 51	lasted a week or so - bug eyed
+T1	adr 21 58	lasted a week or so - dizzy
+T2	adr 21 66	lasted a week or so - nausea
+T3	adr 186 198	down 2 sizes
+T4	adr 464 488	finger pads seem wrinkly
+T5	adr 661 674	sugar craving
+T6	symptom 1052 1069	suicidal ideation
+T7	symptom 1070 1080	 dysphoria
+T8	symptom 1081 1092	 depression
+T9	symptom 1582 1592	rumination
+T10	SSI 1052 1069	suicidal ideation
+T11	SSI 1070 1080	 dysphoria
+T12	SSI 1081 1092	 depression
+T13	SSI 1582 1592	rumination

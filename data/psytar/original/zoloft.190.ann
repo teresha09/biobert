@@ -1,0 +1,12 @@
+T0	adr 10 43	in the beginning, could not stop sleeping
+T1	adr 83 107	too tired to do anything
+T2	symptom 152 165	crying spells
+T3	symptom 169 183	 hate for life
+T4	symptom 192 209	suicidal thoughts
+T5	symptom 582 592	depression
+T6	SSI 152 165	crying spells
+T7	SSI 169 183	 hate for life
+T8	SSI 192 209	suicidal thoughts
+T9	SSI 345 372	attempted to commit suicide
+T10	SSI 582 592	depression
+T11	SSI 192 209	suicidal thoughts

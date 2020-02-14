@@ -1,0 +1,16 @@
+T0	adr 87 175	in the beginning i felt rather numb 
+T1	adr 423 440	extremaly anxious
+T2	adr 557 586	very vivid, weird dreams; every night for about 2 months
+T3	adr 534 586	occasional nightmares every night for about 2 months
+T4	adr 649 663	blurred vision
+T5	adr 710 749	couldn't stop myself from eating sweets
+T6	symptom 44 54	depression
+T7	symptom 84 97	crying spells
+T8	symptom 110 127	suicidal thoughts
+T9	symptom 270 277	anxiety
+T10	symptom 282 288	stress
+T11	SSI 44 54	depression
+T12	SSI 84 97	crying spells
+T13	SSI 110 127	suicidal thoughts
+T14	SSI 270 277	anxiety
+T15	SSI 282 288	stress

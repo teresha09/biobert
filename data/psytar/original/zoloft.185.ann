@@ -1,0 +1,7 @@
+T0	adr 498 505	fatigue
+T1	adr 393 404	weight gain
+T2	adr 352 374	eating more than usual
+T3	adr 388 404	some weight gain
+T4	adr 493 525	some fatigue when first starting
+T5	symptom 148 157	depressed
+T6	SSI 148 157	depressed

@@ -1,0 +1,7 @@
+T0	adr 0 14	some dizziness
+T1	adr 16 22	nausea
+T2	adr 24 33	tiredness
+T3	symptom 252 264	night sweats
+T4	symptom 268 280	fits of rage
+T5	SSI 252 264	night sweats
+T6	SSI 268 280	fits of rage

@@ -1,0 +1,12 @@
+T0	adr 0 53	light headed, first few days
+T1	adr 17 53	increased anxiety the first few days
+T2	adr 152 164	night sweats
+T3	adr 166 183	excessive yawning
+T4	adr 185 204	decreased sex drive
+T5	adr 206 217	weight gain
+T6	adr 219 231	vivid dreams
+T7	adr 233 241	insomnia
+T8	symptom 27 34	anxiety
+T9	symptom 305 314	depressed
+T10	SSI 27 34	anxiety
+T11	SSI 305 314	depressed

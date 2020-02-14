@@ -1,0 +1,16 @@
+T0	adr 13 31	frequent headaches
+T1	adr 43 51	insomnia
+T2	adr 121 131	nightmares
+T3	adr 214 219	anger
+T4	adr 448 470	gained about 60 pounds
+T5	adr 488 502	more depressed
+T6	adr 507 518	freaked out
+T7	adr 539 569	give up on a healthy lifestyle
+T8	adr 581 624	failing an entire semester at my university
+T9	symptom 254 275	uncontrollable crying
+T10	symptom 280 309	incesant thoughts about death
+T11	symptom 353 360	anxiety
+T12	SSI 254 275	uncontrollable crying
+T13	SSI 280 309	incesant thoughts about death
+T14	SSI 353 360	anxiety
+T15	SSI 493 502	depressed

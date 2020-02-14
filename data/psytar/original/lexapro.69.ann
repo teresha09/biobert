@@ -1,0 +1,16 @@
+T0	adr 25 124	dry mouth, went away after a month
+T1	adr 36 124	dry eyes, went away after a month
+T2	adr 46 124	tight jaw, went away after a month
+T3	adr 57 124	dizziness, went away after a month
+T4	adr 68 124	stoned feeling, went away after a month
+T5	adr 227 243	all-over itching
+T6	adr 248 271	severe middle back pain
+T7	adr 392 405	terrible acne
+T8	adr 410 438	infected cysts under one arm
+T9	adr 262 271	back pain
+T10	adr 419 424	cysts
+T11	adr 236 243	itching
+T12	adr 769 784	sleep 13 hours 
+T13	symptom 522 527	anger
+T14	SSI 522 527	anger
+T15	SSI 522 527	anger

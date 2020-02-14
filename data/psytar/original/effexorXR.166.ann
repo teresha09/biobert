@@ -1,0 +1,19 @@
+T0	adr 359 382	increased talkativeness
+T1	adr 46 52	nausea
+T2	adr 54 62	diarrhea
+T3	adr 64 73	headaches
+T4	adr 75 83	insomnia
+T5	adr 97 107	depression
+T6	adr 109 129	moderate weight gain
+T7	adr 131 155	unable to achieve orgasm
+T8	adr 157 182	increased sexual pleasure
+T9	adr 167 281	sexual problems
+T10	adr 266 281	weight problems
+T11	adr 224 354	lasted for the first 2 months, except for, obnoxious behaviour
+T12	adr 224 44	lasted for the first 2 months, except for, talkativeness
+T13	symptom 1052 1084	could barely say a word for days
+T14	symptom 1096 1113	mind was so blank
+T15	SSI 31 45	talkativeness,
+T16	SSI 1052 1084	could barely say a word for days
+T17	SSI 1096 1113	mind was so blank
+T18	SSI 1117 1182	couldn't keep my head up walking down the street because i though

@@ -1,0 +1,14 @@
+T0	adr 556 597	sleep pattern, normalizing now
+T1	adr 607 655	first few weeks, intense dreams
+T2	adr 793 719	if i was able to finally get to sleep
+T3	adr 725 743	sleep was not good
+T4	adr 1095 967	really sick at first
+T5	symptom 887 904	severe depression
+T6	symptom 1325 1333	suicidal
+T7	symptom 1335 1353	cry uncontrollably
+T8	symptom 1360 1389	passive aggressive tendencies
+T9	symptom 1266 1275	depressed
+T10	SSI 887 904	severe depression
+T11	SSI 1266 1275	depressed
+T12	SSI 1325 1333	suicidal
+T13	SSI 1335 1353	cry uncontrollably

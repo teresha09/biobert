@@ -1,0 +1,23 @@
+T0	adr 9 15	nausea
+T1	adr 16 23	diareah
+T2	adr 24 33	shakiness
+T3	adr 35 48	sleeplessness
+T4	adr 50 60	brain zaps
+T5	adr 62 77	muscle twitches
+T6	adr 79 92	jaw tightness
+T7	adr 94 112	vivid dreams
+T8	adr 100 112	scary dreams
+T9	adr 113 130	loss of sex drive
+T10	adr 392 404	miss orgasms
+T11	symptom 251 254	sad
+T12	symptom 256 264	pathetic
+T13	symptom 266 272	lonley
+T14	symptom 274 280	afraid
+T15	symptom 281 292	 antisocial
+T16	symptom 294 300	hermit
+T17	SSI 251 254	sad
+T18	SSI 256 264	pathetic
+T19	SSI 266 272	lonley
+T20	SSI 274 280	afraid
+T21	SSI 281 292	 antisocial
+T22	SSI 294 300	hermit

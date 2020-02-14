@@ -1,0 +1,9 @@
+T0	adr 103 110	tremors
+T1	adr 112 118	nausea
+T2	adr 174 210	long term, can't cry
+T3	adr 224 305	not that i'd want to be cry often; now, nothing
+T4	adr 456 489	not being able to express sadness
+T5	symptom 393 398	angry
+T6	symptom 428 431	sad
+T7	SSI 393 398	angry
+T8	SSI 428 431	sad

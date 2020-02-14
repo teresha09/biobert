@@ -1,0 +1,15 @@
+T0	adr 0 10	spaced out
+T1	adr 12 31	difficulty sleeping
+T2	adr 33 50	headaches(shocks)
+T3	adr 52 64	night sweats
+T4	adr 74 108	first two weeks, felt very spacey
+T5	adr 74 120	first two weeks, felt drugged
+T6	adr 52 64	night sweats
+T7	symptom 246 262	 dressions bouts
+T8	symptom 224 231	anxiety
+T9	SSI 224 231	anxiety
+T10	SSI 246 256	 dressions
+T11	SSI 294 309	anxiety attacks
+T12	SSI 321 331	depression
+T13	SSI 333 340	sadness
+T14	SSI 345 350	anger

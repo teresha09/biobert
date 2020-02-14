@@ -1,0 +1,9 @@
+T0	adr 154 164	heartburn 
+T1	symptom 323 330	anxiety
+T2	symptom 331 341	depression
+T3	symptom 417 466	tingling sensations running down my arms and neck
+T4	symptom 701 722	sleep quality is poor
+T5	SSI 323 330	anxiety
+T6	SSI 331 341	depression
+T7	SSI 417 466	tingling sensations running down my arms and neck
+T8	SSI 701 722	sleep quality is poor

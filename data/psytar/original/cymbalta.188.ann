@@ -1,0 +1,9 @@
+T0	adr 9 18	tiredness
+T1	adr 19 29	sleepiness
+T2	symptom 163 173	depression
+T3	symptom 124 131	anxiety
+T4	symptom 9 18	tiredness
+T5	SSI 163 173	depression
+T6	SSI 124 131	anxiety
+T7	SSI 9 18	tiredness
+T8	SSI 163 173	depression

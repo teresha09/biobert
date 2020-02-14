@@ -1,0 +1,28 @@
+T0	adr 0 14	blurred vision
+T1	adr 16 24	sweating
+T2	adr 26 33	shaking
+T3	adr 35 41	nausea
+T4	adr 43 51	vomiting
+T5	adr 53 68	brief paralysis
+T6	adr 70 93	tingling in extremities
+T7	adr 95 103	fainting
+T8	adr 105 123	heart palpitations
+T9	adr 125 133	insomnia
+T10	adr 135 156	severe abdominal pain
+T11	adr 158 188	auditory hallucinations
+T12	adr 167 188	visual hallucinations
+T13	adr 190 199	dizziness
+T14	adr 16 21	sweat
+T15	adr 441 454	feel very ill
+T16	adr 473 522	throw up all morning and into the early afternoon
+T17	adr 532 543	barely move
+T18	adr 532 561	barely get out of bed
+T19	adr 634 655	entire body seized up
+T20	adr 662 677	could not move 
+T21	adr 662 685	could not speak
+T22	adr 690 731	took me a day and a half to finally sleep
+T23	adr 739 800	couldn't eat until around 9:00 this evening
+T24	adr 739 800	couldn't drink until around 9:00 this evening
+T25	adr 836 846	feel dizzy
+T26	adr 441 860	feel nauseated
+T27	adr 869 896	hands and feet are tingling

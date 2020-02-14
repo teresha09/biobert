@@ -1,0 +1,4 @@
+T0	adr 0 35	nausea the first month
+T1	adr 8 35	weight loss for the first month
+T2	symptom 144 154	depression
+T3	SSI 144 154	depression

@@ -1,0 +1,14 @@
+T0	adr 24 57	increased sweating during the day
+T1	adr 72 118	difficult to reach orgasm
+T2	adr 126 164	intense headaches for the first 3 days
+T3	adr 417 433	intense sweating
+T4	adr 440 460	losing lots of sleep
+T5	adr 505 522	soaked with sweat
+T6	symptom 198 208	depression
+T7	symptom 244 271	weighed down by my thoughts
+T8	symptom 574 583	depressed
+T9	symptom 640 672	dwell on my sad thoughts
+T10	SSI 198 214	depression "fog"
+T11	SSI 244 271	weighed down by my thoughts
+T12	SSI 574 583	depressed
+T13	SSI 640 672	dwell on my sad thoughts

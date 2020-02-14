@@ -1,0 +1,14 @@
+T0	adr 0 9	agitation
+T1	adr 11 20	hostility
+T2	adr 22 40	suicidial thoughts
+T3	adr 42 56	increased pain
+T4	adr 58 78	increased depression
+T5	adr 80 111	muscle spasams in legs and feet
+T6	adr 113 120	dry eye
+T7	adr 122 146	increased blood pressure
+T8	adr 148 166	heart palpitations
+T9	adr 168 185	increased anxiety
+T10	symptom 52 56	pain
+T11	SSI 68 78	depression
+T12	SSI 52 56	pain
+T13	SSI 178 185	anxiety

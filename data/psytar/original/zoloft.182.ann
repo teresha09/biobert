@@ -1,0 +1,13 @@
+T0	adr 8 43	first couple weeks, very tired
+T1	adr 8 59	first couple weeks, felt lethargic
+T2	adr 8 85	first couple weeks, more anxious
+T3	symptom 507 525	preferred solitude
+T4	symptom 748 765	negative feelings
+T5	SSI 78 85	anxious
+T6	SSI 507 525	preferred solitude
+T7	SSI 724 735	internalize
+T8	SSI 748 765	negative feelings
+T9	SSI 1254 1269	mild depression
+T10	SSI 1274 1281	anxiety
+T11	SSI 78 85	anxious
+T12	SSI 1612 1621	depressed

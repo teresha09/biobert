@@ -1,0 +1,13 @@
+T0	adr 14 26	night sweats
+T1	adr 28 44	extreme lethargy
+T2	adr 46 71	decreased interest in sex
+T3	adr 73 92	feeling emotionless
+T4	adr 94 100	nausea
+T5	adr 163 192	spending a lot of time in bed
+T6	adr 193 206	feeling tired
+T7	adr 73 222	feeling indifferent
+T8	adr 316 71	no sex
+T9	adr 414 482	soaked yourself, your pj's, and the sheets through with night sweats
+T10	adr 494 502	threw up
+T11	symptom 284 300	feeling suicidal
+T12	SSI 284 300	feeling suicidal

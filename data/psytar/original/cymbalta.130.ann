@@ -1,0 +1,11 @@
+T0	adr 8 16	diarrhea
+T1	adr 18 31	upset stomach
+T2	adr 33 42	dry mouth
+T3	adr 44 54	sleepiness
+T4	adr 105 117	extreme runs
+T5	adr 18 31	upset stomach
+T6	adr 137 148	no appetite
+T7	symptom 189 197	anxious 
+T8	symptom 200 210	 depressed
+T9	SSI 189 197	anxious 
+T10	SSI 200 210	 depressed

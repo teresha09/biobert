@@ -1,0 +1,10 @@
+T0	adr 0 17	increased anxiety
+T1	adr 19 25	nausea
+T2	adr 27 43	loss of appetite
+T3	adr 27 54	loss of weight
+T4	adr 55 64	heartburn
+T5	adr 66 74	diarrhea
+T6	adr 76 89	eye twitching
+T7	adr 91 104	jaw clenching
+T8	adr 106 114	insomnia
+T9	SSI 10 17	anxiety

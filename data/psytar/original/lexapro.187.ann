@@ -1,0 +1,13 @@
+T0	adr 36 50	"the munchies"
+T1	adr 54 70	some weight gain
+T2	adr 72 119	dulled emotions, improved with time
+T3	adr 122 148	slight sexual side effects
+T4	symptom 188 201	breaking down
+T5	symptom 290 295	panic
+T6	symptom 300 312	hypochondria
+T7	symptom 351 369	obsessive thoughts
+T8	SSI 188 201	breaking down
+T9	SSI 290 295	panic
+T10	SSI 300 312	hypochondria
+T11	SSI 351 369	obsessive thoughts
+T12	SSI 411 421	depression

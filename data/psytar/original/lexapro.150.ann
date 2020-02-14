@@ -1,0 +1,13 @@
+T0	adr 28 50	almost constant nausea
+T1	adr 52 61	migraines
+T2	adr 63 96	intense panic first couple nights
+T3	symptom 173 181	worrying
+T4	symptom 219 228	depressed
+T5	symptom 239 251	panic attack
+T6	symptom 465 475	depression
+T7	symptom 480 487	anxiety
+T8	SSI 173 181	worrying
+T9	SSI 219 228	depressed
+T10	SSI 239 251	panic attack
+T11	SSI 465 475	depression
+T12	SSI 480 487	anxiety

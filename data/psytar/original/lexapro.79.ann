@@ -1,0 +1,9 @@
+T0	adr 0 14	slight nausea 
+T1	adr 18 27	shakiness
+T2	adr 32 53	feeling very anxious 
+T3	symptom 147 154	anxiety
+T4	symptom 159 168	obsessing
+T5	symptom 174 184	depression
+T6	SSI 147 154	anxiety
+T7	SSI 159 168	obsessing
+T8	SSI 174 184	depression

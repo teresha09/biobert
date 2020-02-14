@@ -1,0 +1,28 @@
+T0	adr 53 72	increase in anxiety
+T1	adr 74 96	weird floating feeling
+T2	adr 98 110	sweaty palms
+T3	adr 112 118	nausea
+T4	adr 120 129	heartburn
+T5	adr 131 160	waking up in middle of night 
+T6	adr 175 200	sexual performance issues
+T7	adr 241 252	weight gain
+T8	adr 254 261	yawning
+T9	adr 268 286	daytime sleepiness
+T10	adr 241 252	weight gain
+T11	adr 276 286	sleepiness
+T12	symptom 324 337	panic attacks
+T13	symptom 324 336	panic attack
+T14	symptom 324 337	panic attacks
+T15	symptom 1372 1380	worrying
+T16	symptom 1372 1380	worrying
+T17	symptom 1523 1528	upset
+T18	symptom 1533 1540	rattled
+T19	SSI 65 72	anxiety
+T20	SSI 324 337	panic attacks
+T21	SSI 324 336	panic attack
+T22	SSI 324 336	panic attack
+T23	SSI 324 337	panic attacks
+T24	SSI 1372 1380	worrying
+T25	SSI 1372 1380	worrying
+T26	SSI 1523 1528	upset
+T27	SSI 1533 1540	rattled

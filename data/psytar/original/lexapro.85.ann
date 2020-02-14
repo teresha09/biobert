@@ -1,0 +1,5 @@
+T0	adr 3 42	blood pressure rose more than 10 points
+T1	adr 387 407	blood pressure issue
+T2	symptom 286 296	depression
+T3	SSI 286 296	depression
+T4	SSI 344 351	anxiety

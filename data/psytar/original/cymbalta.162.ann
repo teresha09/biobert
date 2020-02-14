@@ -1,0 +1,11 @@
+T0	adr 14 26	vivid dreams
+T1	adr 31 54	restless sleep patterns
+T2	symptom 132 142	feel tired
+T3	symptom 174 177	cry
+T4	symptom 259 268	trembling
+T5	symptom 285 320	could not think about holding a job
+T6	SSI 132 142	feel tired
+T7	SSI 174 177	cry
+T8	SSI 259 268	trembling
+T9	SSI 270 280	sappy mess
+T10	SSI 285 320	could not think about holding a job

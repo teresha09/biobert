@@ -1,0 +1,8 @@
+T0	adr 15 39	brain "zapping" pressure
+T1	adr 41 78	restless jaw (teeth wanting to grind)
+T2	adr 132 149	a little naucious
+T3	adr 170 205	jaw has been wanting to clench down
+T4	symptom 742 752	depression
+T5	symptom 757 764	anxiety
+T6	SSI 742 752	depression
+T7	SSI 757 764	anxiety

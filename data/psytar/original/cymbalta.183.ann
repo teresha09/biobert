@@ -1,0 +1,26 @@
+T0	adr 186 202	always 'shaking'
+T1	adr 208 222	cannot breathe
+T2	adr 231 277	cannot sleep any longer than 3 hours per night
+T3	adr 932 940	insomnia
+T4	adr 955 967	really shaky
+T5	adr 969 976	nervous
+T6	adr 978 989	a bit tense
+T7	adr 1018 1036	heart palpitations
+T8	symptom 20 30	depression
+T9	symptom 42 47	anger
+T10	symptom 20 30	depression
+T11	symptom 126 141	general anxiety
+T12	symptom 486 499	extreme anger
+T13	symptom 504 513	outbursts
+T14	symptom 521 529	bi-polar
+T15	SSI 20 30	depression
+T16	SSI 42 47	anger
+T17	SSI 19 30	 depression
+T18	SSI 126 141	general anxiety
+T19	SSI 194 201	shaking
+T20	SSI 208 222	cannot breathe
+T21	SSI 231 277	cannot sleep any longer than 3 hours per night
+T22	SSI 486 499	extreme anger
+T23	SSI 504 513	outbursts
+T24	SSI 521 529	bi-polar
+T25	SSI 669 685	feeling suicidal

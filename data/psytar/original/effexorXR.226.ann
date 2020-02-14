@@ -1,0 +1,12 @@
+T0	adr 3 21	tired all day long
+T1	adr 22 32	low energy
+T2	adr 40 47	yawning
+T3	adr 116 127	weight gain
+T4	symptom 284 295	crying jags
+T5	symptom 315 322	anxiety
+T6	symptom 346 352	stress
+T7	symptom 414 435	jump off the deap end
+T8	SSI 284 295	crying jags
+T9	SSI 315 322	anxiety
+T10	SSI 346 352	stress
+T11	SSI 414 435	jump off the dead end

@@ -1,0 +1,24 @@
+T0	adr 0 11	weight gain
+T1	adr 13 23	spaced-out
+T2	adr 24 35	zombie-like
+T3	adr 1077 56	dream-like feeling
+T4	adr 58 66	sweating
+T5	adr 68 86	increased appetite
+T6	adr 88 102	sleep too deep
+T7	adr 0 11	weight gain
+T8	adr 514 527	gained 10 lb 
+T9	adr 670 695	craving food all the time
+T10	adr 759 771	felt on fire
+T11	adr 777 790	sweat so much
+T12	adr 1053 948	sometimes i feel zombie-like
+T13	adr 955 975	life is out of focus
+T14	adr 984 996	vivid dreams
+T15	adr 1053 1087	sometimes my life is so dream-like
+T16	adr 1098 1121	dreams are so life-like
+T17	adr 1130 1178	constantly confuse what i dreamed & what i lived
+T18	adr 1214 1252	can't even wake up to use the bathroom
+T19	adr 1402 1411	so drowsy
+T20	symptom 210 220	depression
+T21	symptom 253 256	cry
+T22	SSI 210 220	depression
+T23	SSI 253 256	cry

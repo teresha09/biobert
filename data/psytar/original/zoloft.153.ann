@@ -1,0 +1,8 @@
+T0	adr 0 15	vaginal dryness
+T1	adr 17 33	decreased libido
+T2	symptom 72 80	suicidal
+T3	symptom 81 91	depression
+T4	symptom 81 91	depression
+T5	SSI 72 80	suicidal
+T6	SSI 81 91	depression
+T7	SSI 81 91	depression

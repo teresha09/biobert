@@ -1,0 +1,15 @@
+T0	adr 17 31	low motivation
+T1	adr 17 42	low energy
+T2	adr 55 62	anxiety
+T3	adr 78 90	biting nails
+T4	adr 78 99	biting lips
+T5	adr 101 116	lightheadedness
+T6	adr 117 122	dizzy
+T7	adr 124 141	occasional nausea
+T8	adr 499 514	felt more tired
+T9	adr 530 554	difficulty with sleeping
+T10	symptom 324 334	depression
+T11	symptom 339 348	moodiness
+T12	SSI 324 335	depression 
+T13	SSI 339 348	moodiness
+T14	SSI 580 605	 seasonal affect disorder

@@ -1,0 +1,14 @@
+T0	adr 0 11	weight gain
+T1	adr 13 31	sexual dysfunction
+T2	adr 33 39	nausea
+T3	adr 315 331	gained 25 pounds
+T4	adr 352 382	fueled my depression even more
+T5	adr 479 489	brain zaps
+T6	symptom 124 134	depression
+T7	symptom 139 146	anxiety
+T8	symptom 230 239	depressed
+T9	SSI 124 134	depression
+T10	SSI 139 146	anxiety
+T11	SSI 139 146	anxiety
+T12	SSI 230 239	depressed
+T13	SSI 124 134	depression

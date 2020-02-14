@@ -1,0 +1,20 @@
+T0	adr 109 121	night sweats
+T1	adr 129 159	body temperature has increased
+T2	adr 194 214	seven pounds heavier
+T3	adr 247 265	decreased appetite
+T4	symptom 456 466	depression
+T5	symptom 471 478	anxiety
+T6	symptom 584 601	extremely anxious
+T7	symptom 606 614	negative
+T8	symptom 507 524	suicidal thoughts
+T9	symptom 804 822	slightly depressed
+T10	symptom 788 799	unmotivated
+T11	SSI 456 466	depression
+T12	SSI 471 478	anxiety
+T13	SSI 507 524	suicidal thoughts
+T14	SSI 584 601	extremely anxious
+T15	SSI 605 614	 negative
+T16	SSI 637 648	hypersomnia
+T17	SSI 663 693	sleep for up to 14 hours a day
+T18	SSI 787 799	 unmotivated
+T19	SSI 804 822	slightly depressed

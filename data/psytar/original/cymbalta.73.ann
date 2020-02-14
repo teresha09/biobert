@@ -1,0 +1,11 @@
+T0	adr 236 252	intense sweating
+T1	adr 254 272	sleep disturbances
+T2	adr 274 288	feeling spacey
+T3	adr 293 298	dizzy
+T4	adr 300 333	sleeping 2-3 hours during the day
+T5	adr 346 356	brain fuzz
+T6	symptom 38 48	depression
+T7	symptom 53 60	anxiety
+T8	SSI 38 48	depression
+T9	SSI 53 60	anxiety
+T10	SSI 170 180	sleepiness

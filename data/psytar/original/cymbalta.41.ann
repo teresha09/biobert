@@ -1,0 +1,29 @@
+T0	adr 50 71	terrible night sweats
+T1	adr 81 90	headaches
+T2	adr 91 100	dizziness
+T3	adr 102 122	out of sorts feeling
+T4	adr 152 201	tendons on both arms started hurting by the elbow
+T5	adr 213 228	extreme fatigue
+T6	adr 234 244	heaviness 
+T7	adr 248 277	pain in the calves of my legs
+T8	adr 303 314	acid reflux
+T9	adr 323 361	bowel movements 5 times in the morning
+T10	adr 362 380	abdominal cramping
+T11	adr 396 407	no appetite
+T12	adr 474 491	erosive esophagus
+T13	adr 601 616	stuffed up nose
+T14	adr 621 635	constant cough
+T15	adr 556 53	went to er
+T16	adr 723 738	fast heart rate
+T17	adr 739 755	poor circulation
+T18	adr 924 934	felt worse
+T19	adr 1109 1133	bad pain in my right arm
+T20	adr 1109 707	bad pain in legs
+T21	adr 1109 1333	bad pain in feet
+T22	adr 1154 1171	pain is heaviness
+T23	adr 1176 1190	electic shocks
+T24	adr 1196 1212	sweating stopped
+T25	adr 1227 1235	diarreha
+T26	adr 1241 1247	nausea
+T27	adr 1252 1273	pain all over my body
+T28	SSI 831 840	depressed
