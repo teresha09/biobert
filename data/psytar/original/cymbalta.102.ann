@@ -1,7 +1,0 @@
-T0	adr 0 18	decreased appetite
-T1	adr 20 55	nausea (went away after a few days)
-T2	adr 57 81	some sudden dizzy spells
-T3	adr 123 135	constipation
-T4	adr 137 140	gas
-T5	disease 157 167	depression
-T6	symptom 157 167	depression

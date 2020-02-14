@@ -1,8 +1,0 @@
-T0	adr 50 64	extreme thirst
-T1	adr 91 100	headaches
-T2	adr 105 114	neckaches
-T3	disease 483 493	depression
-T4	disease 807 822	mild depression
-T5	disease 829 493	major depression
-T6	disease 838 858	suicidal depressives
-T7	symptom 483 493	depression

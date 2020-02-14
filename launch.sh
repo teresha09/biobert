@@ -7,7 +7,7 @@ BIOBERT_DIR=${SCRIPTPATH}/BIOBERT_DIR
 IFS=$'\n'
 python3 main_pre.py -data data/cadec,data/psytar -folds_path data/cadec_folds,data/psytar_folds \
     -bio_paths data/cadec_folds_biobert,data/psytar_folds_biobert -n_folds 5 \
-    -entity adr -tagger averaged_perceptron_tagger -vocab_file ${BIOBERT_DIR}/vocab.txt
+    -entity symptom -tagger averaged_perceptron_tagger -vocab_file ${BIOBERT_DIR}/vocab.txt
 for directory in ${SCRIPTPATH}/data/cadec_folds_biobert/*
 do
 for fold in $directory
@@ -49,8 +49,8 @@ python3 run_ner.py --do_train=false --do_predict=true --do_eval=true --vocab_fil
     --num_train_epochs=50.0 \
     --data_dir="${psytararr[$i]}" \
     --output_dir=$outputdir1
-python3 main_post.py -data_bio ${cadecarr[$i]} -result_folder ${outputdir} -data ${SCRIPTPATH}/data/cadec_folds/0${i} -entity adr -perl_path biocodes/conlleval.pl
-python3 main_post.py -data_bio ${psytararr[$i]} -result_folder ${outputdir1} -data ${SCRIPTPATH}/data/psytar_folds/0${i}/test.json -entity adr -perl_path biocodes/conlleval.pl
+python3 main_post.py -data_bio ${cadecarr[$i]} -result_folder ${outputdir} -data ${SCRIPTPATH}/data/cadec_folds/0${i} -entity symptom -perl_path biocodes/conlleval.pl
+python3 main_post.py -data_bio ${psytararr[$i]} -result_folder ${outputdir1} -data ${SCRIPTPATH}/data/psytar_folds/0${i} -entity symptom -perl_path biocodes/conlleval.pl
 done
 for (( i=0; i < "${#psytararr[@]}"; i++ ))
 do
@@ -76,6 +76,6 @@ python3 run_ner.py --do_train=false --do_predict=true --do_eval=true --vocab_fil
     --num_train_epochs=50.0 \
     --data_dir="${psytararr[$i]}" \
     --output_dir=$outputdir1
-python3 main_post.py -data_bio ${cadecarr[$i]} -result_folder ${outputdir} -data ${SCRIPTPATH}/data/cadec_folds/0${i} -entity adr -perl_path biocodes/conlleval.pl
-python3 main_post.py -data_bio ${psytararr[$i]} -result_folder ${outputdir1} -data ${SCRIPTPATH}/data/psytar_folds/0${i}/test.json -entity adr -perl_path biocodes/conlleval.pl
+python3 main_post.py -data_bio ${cadecarr[$i]} -result_folder ${outputdir} -data ${SCRIPTPATH}/data/cadec_folds/0${i} -entity symptom -perl_path biocodes/conlleval.pl
+python3 main_post.py -data_bio ${psytararr[$i]} -result_folder ${outputdir1} -data ${SCRIPTPATH}/data/psytar_folds/0${i} -entity symptom -perl_path biocodes/conlleval.pl
 done

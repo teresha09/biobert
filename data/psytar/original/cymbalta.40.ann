@@ -1,9 +1,0 @@
-T0	adr 10 21	nervousness
-T1	adr 23 29	nausea
-T2	adr 31 39	insomnia
-T3	adr 41 49	sweating
-T4	adr 153 191	don't see how i can possibly function 
-T5	disease 95 105	depression
-T6	disease 110 117	anxiety
-T7	symptom 95 105	depression
-T8	symptom 110 117	anxiety

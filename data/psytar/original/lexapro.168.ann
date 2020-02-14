@@ -1,8 +1,0 @@
-T0	adr 20 46	waking up every 2-3 hours 
-T1	adr 50 80	general fatigue during the day
-T2	adr 160 181	extremely constipated
-T3	adr 226 243	lack of sex drive
-T4	disease 408 415	anxiety
-T5	disease 533 543	depression
-T6	symptom 408 415	anxiety
-T7	symptom 533 543	depression

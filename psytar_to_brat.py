@@ -133,9 +133,9 @@ def get_disease_entity(filename, full_text):
                     continue
                 end = end + len(copy_col1)
                 if row[1] in text:
-                    text[row[1]].append({'start': start, 'end': end, 'entity': 'disease', 'text': col.lower()})
+                    text[row[1]].append({'start': start, 'end': end, 'entity': 'symptom', 'text': col.lower()})
                 else:
-                    text[row[1]] = [{'start': start, 'end': end, 'entity': 'disease', 'text': col.lower()}]
+                    text[row[1]] = [{'start': start, 'end': end, 'entity': 'symptom', 'text': col.lower()}]
     return text
 
 
@@ -180,9 +180,9 @@ def get_symptom_entity(filename, full_text):
                     continue
                 end = end + len(copy_col1)
                 if row[1] in text:
-                    text[row[1]].append({'start': start, 'end': end, 'entity': 'symptom', 'text': col.lower()})
+                    text[row[1]].append({'start': start, 'end': end, 'entity': 'SSI', 'text': col.lower()})
                 else:
-                    text[row[1]] = [{'start': start, 'end': end, 'entity': 'symptom', 'text': col.lower()}]
+                    text[row[1]] = [{'start': start, 'end': end, 'entity': 'SSI', 'text': col.lower()}]
     return text
 
 

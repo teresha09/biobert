@@ -1,8 +1,0 @@
-T0	adr 10 22	hand tremors
-T1	adr 24 36	racing heart
-T2	adr 38 46	insomnia
-T3	adr 48 62	bizarre dreams
-T4	disease 99 110	 depression
-T5	disease 214 221	anxiety
-T6	symptom 99 110	 depression
-T7	symptom 214 221	anxiety

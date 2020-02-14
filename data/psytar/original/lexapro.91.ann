@@ -1,8 +1,0 @@
-T0	adr 31 41	felt dizzy
-T1	adr 46 51	tired
-T2	disease 199 206	anxious
-T3	disease 208 222	chest is tight
-T4	disease 224 237	heavy sighing
-T5	symptom 199 206	anxious
-T6	symptom 208 222	chest is tight
-T7	symptom 224 237	heavy sighing
